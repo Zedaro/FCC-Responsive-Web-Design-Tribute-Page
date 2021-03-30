@@ -1,1 +1,61 @@
+#main {
+  width: 100vw;
+  height: 5000px;
+  background-color: #B22FF5;
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+	
+	
+}
 
+#title {
+	width: fit-content;
+	height: auto;
+	//background-color: gray;
+	top: -20px;
+	text-align: center;
+	margin-top: 0;
+	margin: auto;
+	
+}
+
+#title-sub {
+	//background-color: blue;
+	width: fit-content;
+	height: auto;
+	margin: auto;
+	margin-top: 10px;
+	font-size: 20px;
+	font-weight: 10;
+}
+
+#img-div {
+	background-color: #BC54F5;
+	margin-top: 50px;
+	padding: 25px;
+	padding-bottom: 10px;
+}
+
+#img {
+	//background-color: gray;
+	display: block;
+	width: 500px;
+	margin: auto;
+}
+
+#img-caption {
+	//background-color: blue;
+	text-align: center;
+	font-size: 17px;
+	margin-top: 10px;
+	
+}
+
+
+/*#test {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	margin-top: 50px;
+}*/
