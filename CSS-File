@@ -33,6 +33,8 @@
 #img-div {
 	background-color: #BC54F5;
 	margin-top: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
 	padding: 25px;
 	padding-bottom: 10px;
 }
